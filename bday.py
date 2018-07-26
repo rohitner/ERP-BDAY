@@ -1,6 +1,5 @@
 import sys
 from mechanize import Browser
-from HTMLParser import HTMLParser
 from datetime import timedelta, date
 
 def spinning_cursor():
@@ -45,6 +44,8 @@ def main():
   
   start_date = date(year, 1, 1)
   end_date   = date(year, 12, 31)
+
+  sys.tracebacklimit = 0
 
   get_bday(rollno, start_date, end_date)
 
