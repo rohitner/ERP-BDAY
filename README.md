@@ -16,5 +16,8 @@ Use it for
 Dont use it for
 - Checking his/her cgpa.
 
+# Credits
+[Vipul999ujawane](https://github.com/Vipul999ujawane) for discovering the loophole.(and letting me know :P)
+
 # License
 MIT License
