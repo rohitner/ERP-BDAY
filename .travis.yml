@@ -1,0 +1,10 @@
+language: python
+
+python:
+  - 2.7
+
+install:
+  - pip install -r requirements.txt
+
+script:
+  - printf "16MA20055\n1998\n" > testing.txt && python bday.py < testing.txt
