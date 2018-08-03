@@ -1,6 +1,12 @@
-# ERP-BDAY
+# ERP-BDAY [![Build Status](https://travis-ci.com/rohitner/ERP-BDAY.svg?branch=master)](https://travis-ci.com/rohitner/ERP-BDAY)
+
 get birth date of your best friend for several purposes from ERP
 
+# Setup
+```bash
+# requires python 2.7
+pip install -r requirements.txt
+```
 
 # Usage
 ```python
