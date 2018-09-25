@@ -13,6 +13,7 @@ pip install -r requirements.txt
 python bday.py
 # Enter the rollno of your best friend.: 16MA200XX
 # Enter the possible birth year.       : 1998
+# **watches the rotating line patiently**
 # 01-01-1998
 ```
 
